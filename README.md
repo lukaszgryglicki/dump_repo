@@ -1,0 +1,1 @@
+dump_repo.py is used to dump all sources into a single file src.txt (or multiple files if src.txt exceeds given size. This file can later be uploaded as test file containing source files for given project.
